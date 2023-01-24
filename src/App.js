@@ -1,11 +1,11 @@
+import React from 'react'
 import "./App.css";
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <h1 className="text-2xl font-bold underline">Hello world!</h1>
-    </div>
-  );
+    <div className='underline'>App</div>
+  )
 }
 
-export default App;
+export default App
