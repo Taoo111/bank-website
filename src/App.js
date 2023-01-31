@@ -34,6 +34,7 @@ const App = () => {
           <Stats />
           <Business />
           <Billing />
+          <CardDeal />
           {/* Stats Bussines Billing CardDeal Testimonials Clients Cta Footer */}
         </div>
       </div>
