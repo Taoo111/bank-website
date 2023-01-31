@@ -38,6 +38,7 @@ const App = () => {
           <Testimonials />
           <Clients />
           <CTA />
+          <Footer />
           {/* Stats Bussines Billing CardDeal Testimonials Clients Cta Footer */}
         </div>
       </div>
